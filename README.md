@@ -1,7 +1,7 @@
 # 現代點餐系統
 ![C#](https://img.shields.io/badge/C%23-007ACC?style=flat&logo=csharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-FF5700?style=flat&logo=windows&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Core-6.0-blue.svg)
+[![.NET Foundation](https://img.shields.io/badge/.NET%20Foundation-blueviolet.svg)](https://www.dotnetfoundation.org/)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2022-blue.svg)
 
 ![系統截圖](screenshot.png)
