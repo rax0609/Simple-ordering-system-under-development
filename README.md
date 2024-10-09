@@ -40,7 +40,7 @@
 1. **克隆專案**
 
    ```bash
-   git clone https://github.com/你的帳號/現代點餐系統.git
+   git clone https://github.com/rax0609/Simple-ordering-system-under-development.git
    ```
 
 2. **打開專案**
